@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋 I'm Sameer Basha Aragonda
 
-<!--
-**ASBsameer1919/ASBsameer1919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science (Data Science) Graduate
 
-Here are some ideas to get you started:
+### Skills
+- Java
+- Spring Boot
+- REST APIs
+- JPA & Hibernate
+- MySQL
+- Oracle SQL
+- HTML, CSS, JavaScript
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+🚀 Certificate Authentication System
+
+🚀 AI Powered Email Reply Assistant
+
+🚀 Drone Telemetry Viewer
+
+🚀 Student Marks Management System
+
+### Connect with me
+
+LinkedIn: (http://www.linkedin.com/in/asameerbasha)
+
+Email: asameerbasha496@gmail.com
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
