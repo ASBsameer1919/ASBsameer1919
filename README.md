@@ -13,13 +13,13 @@ Computer Science (Data Science) Graduate
 - Git & GitHub
 
 ### Projects
-🚀 Certificate Authentication System
+🚀 Farmers Market Application
 
 🚀 AI Powered Email Reply Assistant
 
 🚀 Drone Telemetry Viewer
 
-🚀 Student Marks Management System
+🚀 Weather Application
 
 ### Connect with me
 
